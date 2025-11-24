@@ -32,9 +32,9 @@ import send_icon from "./send-icon.png";
 import right_arrow_bold from "./right-arrow-bold.png";
 import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
 import user_image_02 from "./user-image-02.jpeg";
+import profile_img from "./profile-img.png";
 
 export const assets = {
-  user_image,
   code_icon,
   code_icon_dark,
   edu_icon,
@@ -47,8 +47,6 @@ export const assets = {
   git,
   mongodb,
   right_arrow_white,
-  logo,
-  logo_dark,
   mail_icon,
   mail_icon_dark,
   profile_img,
